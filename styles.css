@@ -3,7 +3,7 @@
 }
 
 #menu {
-    margin-top: 15px;
+    margin-top: 20px;
     margin-left: 10px;
     display: inline-block;
     content: "";
@@ -23,6 +23,7 @@
 
 #menu::after {
     margin-left: 0px;
+    margin-bottom: 4px;
     display: inline-block;
     content: "";
     width: 50px;
